@@ -1,0 +1,5 @@
+# Dependencies for the project
+pandas 
+scikit-learn 
+fastapi 
+uvicorn
